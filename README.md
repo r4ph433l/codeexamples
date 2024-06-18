@@ -1,6 +1,6 @@
 # QUELLEN UND MATERIALIEN
 ## zum IT-Fair Vortrag von
-## Bent, Mahmoud, Donyeer & Raphael
+Bent, Mahmoud, Donyeer & Raphael
 
 ## Logos
 - Fortran Logo:
