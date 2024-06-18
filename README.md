@@ -1,6 +1,6 @@
 # QUELLEN UND MATERIALIEN
 ## zum IT-Fair Vortrag von
-Bent, Mahmoud, Donyeer & Raphael
+Bent, Mahmoud, Danyar & Raphael
 ## Informationsquellen
 - https://en.wikipedia.org/wiki/Programming_language
 - https://de.wikipedia.org/wiki/Brainfuck
