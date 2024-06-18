@@ -1,7 +1,9 @@
 # QUELLEN UND MATERIALIEN
 ## zum IT-Fair Vortrag von
 Bent, Mahmoud, Donyeer & Raphael
-
+## Informationsquellen
+https://en.wikipedia.org/wiki/Programming_language
+https://de.wikipedia.org/wiki/Brainfuck
 ## Logos
 - Fortran Logo:
 	- Von Fortran-lang community - https://github.com/fortran-lang/fortran-lang.org/blob/master/assets/img/fortran-logo.svg, Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=94909602
