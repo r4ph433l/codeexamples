@@ -1,0 +1,8 @@
+CO hello.algol68 CO
+[]CHAR msg = "Hello World";
+INT n = 3;
+[n]CHAR xclam;
+FOR i FROM 1 TO n DO
+        xclam[i] := "!"
+OD;
+print((msg, xclam, newline))
