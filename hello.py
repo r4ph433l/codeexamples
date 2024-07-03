@@ -1,3 +1,2 @@
 # hello.py
-msg = "Hello World!"
-print(msg)
+print('Hello World' + '!'*3)
